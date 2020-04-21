@@ -19,4 +19,4 @@ To run our code you can follow the below steps:
 
 4. In the "Analysis" folder we have our code for our tf-idf, bag-of-words, w2vec analysis. You will need the transcripts1.db in the same directory as the analysis code you will be running.  
 
-
+Project Team: Michael Hayes, Grayson Niehaus, Frank Whitesell
