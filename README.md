@@ -11,7 +11,7 @@ To run our code you can follow the below steps:
 
 2a Make sure you download the files in the corresponding data folder (should stay in data folder) WebScraping -> data
 
-2b Webscraping took about 40 hours on a local machine
+2b Webscraping took around 40 hours on a local machine
 
 2c The output is transcripts1.db file (data is stored on a SQLite3 db)
 
