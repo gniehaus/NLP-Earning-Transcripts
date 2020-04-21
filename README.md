@@ -8,6 +8,7 @@ To run our code you can follow the below steps:
 1. Run the command '!pip install -r requirements.txt' to install all necessary packages (if not running this command in jupyter notebook, remove the "!".) 
 
 2. If you would like to run the webscraper, the jupyter notebook file is in "WebScraping" folder
+
 2a Make sure you download the files in the corresponding data folder (should stay in data folder) WebScraping -> data
 2b Webscraping took about 40 hours on a local machine
 2c The output is transcripts1.db file (data is stored on a SQLite3 db)
