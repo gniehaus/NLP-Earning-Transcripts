@@ -17,6 +17,6 @@ To run our code you can follow the below steps:
 
 3. If you would like to skip webscraping, the transcripts1.db file can be downloaded at this dropbox link. The file is 690mb which is too large to host on github. https://www.dropbox.com/sh/ei6yjwlhwvr9m1w/AACJIAKDpLstyXWoTYuj1Op4a?dl=0
 
-4. In the "Analysis" folder we have our code for our tf-idf, bag-of-words, w2vec analysis. You will need the transcripts1.db in the same directory as the analysis code you will be running.  
+4. In the "Analysis" folder we have our code for our tf-idf, bag-of-words, and w2vec analysis. You will need the transcripts1.db in the same directory as any code you choose to run.  
 
 Project Team: Michael Hayes, Grayson Niehaus, Frank Whitesell
