@@ -17,7 +17,7 @@ To run our code you can follow the below steps:
 
   2c The output is transcripts1.db file (data is stored on a SQLite3 db)
 
-3. If you would like to skip webscraping, the transcripts1.db file can be downloaded at this dropbox link. The file is 690mb which is too large to host on github. https://www.dropbox.com/sh/ei6yjwlhwvr9m1w/AACJIAKDpLstyXWoTYuj1Op4a?dl=0
+3. If you would like to skip webscraping, the transcripts1.db file can be downloaded at this dropbox link. The file is 690mb which is too large to host on github. https://www.dropbox.com/sh/cwn434x1y6ra2m2/AABZW8-nBJLGhxTN2LyMNsdNa?dl=0
 
 4. In the "Analysis" folder we have our code for our tf-idf, bag-of-words, and w2vec analysis. You will need the transcripts1.db in the same directory as any code you choose to run.  
 
