@@ -2,7 +2,7 @@
 
 NLP 7641 Final Project: Predicting Research Analysts' Ratings with Earning Transcripts
 
-For this project, we analyze 6400 earnings transcripts that were webscraped from motleyfool.com. Our goal is to predict how research analysts will react to these transcripts. We measure analysts reaction with their corresponding buy/hold/sell reccomendation (1-5 scale). Our analyst reccomendations were obtained from a Georgia Tech Bloomberg Terminal using an Academic License. We find that a w2vec model with 500 dimensions, weighted by tf-idf is the best representation of each transcript. We feed this into a neural network and achieve a 70% accuracy and 70% F1 score.
+For this project, we analyze 6400 earnings transcripts that were webscraped from motleyfool.com. Our goal is to predict how research analysts will react to these transcripts. We measure analysts reaction with their corresponding buy/hold/sell reccomendation (1-5 scale). Our analyst reccomendations were obtained from a Georgia Tech Bloomberg Terminal using an Academic License. We find that a w2vec model with 500 dimensions, weighted by tf-idf is the best representation of each transcript. We feed this into a neural network and achieve a 70% accuracy and 65% F1 score.
 
 We have listed some prior work and motivating examples in our "research_papers" folder.
 
